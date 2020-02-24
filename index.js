@@ -1,6 +1,6 @@
 /*! (c) Andrea Giammarchi - ISC - https://github.com/WebReflection/gjs-require */
 
-(function (self) {'use strict';
+exports.default = (function (self) {'use strict';
 
   const { gi, system } = imports;
 
