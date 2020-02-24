@@ -1,0 +1,2 @@
+# global
+globals for gjs
